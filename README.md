@@ -2,12 +2,12 @@
 
 ## Project setup
 ```
-npm install
+npm install asdasdadasdadaddadasasdasddasdad
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run serveasdasdasddddddddddddddddddddddddddddddddddddddddd
 ```
 
 ### Compiles and minifies for production
